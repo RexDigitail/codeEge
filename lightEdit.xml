@@ -5,10 +5,12 @@
         <option value="file://D:/binance_bot_v2/binance_bot_v2/binance_bot.py" />
         <option value="file://D:/binance_bot_v2/binance_bot_v2/misc.py" />
         <option value="file://D:/binance_bot_v2/binance_bot_v2/config.py" />
+        <option value="file://D:/binance_bot_v2/binance_bot_v2/bablofil_ta.py" />
+        <option value="file://D:/binance_bot_v2/binance_bot_v2/trades.py" />
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="2976" y="183" width="4320" height="2340" extendedState="6" />
+      <frame x="1909" y="198" width="2582" height="1403" extendedState="6" />
     </option>
   </component>
 </application>
